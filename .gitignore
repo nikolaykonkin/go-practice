@@ -1,0 +1,39 @@
+# Binaries во всех подпапках
+/go-basics/employees-list/employees-list
+/go-basics/warehouse-basics/warehouse-basics
+/go-basics/age-status/age-status
+/go-basics/gofit-profile/gofit-profile
+/go-basics/read-process-write/read-process-write
+/go-basics/modules/mymath/mymath
+/go-basics/modules/app/app
+/go-concurrency/mutex-basics/mutex-basics
+/go-concurrency/channels-worker-pool/channels-worker-pool
+/go-concurrency/fan-in/fan-in
+/go-concurrency/concurrent-tasks/concurrent-tasks
+/go-advanced/reflect-validation/reflect-validation
+/go-advanced/tasks-api-crud/server
+/go-advanced/url-shortener-tested/url-shortener-tested
+
+# Общие паттерны
+*.exe
+*.test
+*.out
+coverage.out
+
+# Артефакты работы программ
+/go-basics/read-process-write/output.txt
+
+# БД
+*.db
+
+# Секреты
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
