@@ -3,7 +3,7 @@ package storage
 import (
 	"errors"
 
-	"tasks-api/internal/models"
+	"github.com/nikolaykonkin/go-practice/tasks-api-crud/internal/models"
 )
 
 // ErrTaskNotFound возвращается, когда задача с указанным ID отсутствует

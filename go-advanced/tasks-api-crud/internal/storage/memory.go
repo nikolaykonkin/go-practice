@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"tasks-api/internal/models"
+	"github.com/nikolaykonkin/go-practice/tasks-api-crud/internal/models"
 )
 
 // MemoryStorage — потокобезопасная реализация Storage

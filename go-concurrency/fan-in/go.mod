@@ -1,3 +1,3 @@
 module github.com/nikolaykonkin/go-practice/fan-in
 
-go 1.25
+go 1.26

@@ -1,6 +1,6 @@
 module example.com/app
 
-go 1.25
+go 1.26
 
 require example.com/mymath v0.0.0
 

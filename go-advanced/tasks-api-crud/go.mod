@@ -1,3 +1,3 @@
-module tasks-api
+module github.com/nikolaykonkin/go-practice/tasks-api-crud
 
-go 1.25
+go 1.26

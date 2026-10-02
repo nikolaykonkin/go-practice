@@ -1,3 +1,3 @@
 module github.com/nikolaykonkin/go-practice/reflect-validation
 
-go 1.25
+go 1.26

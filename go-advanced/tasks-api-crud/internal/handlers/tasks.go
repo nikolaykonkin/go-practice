@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"tasks-api/internal/models"
-	"tasks-api/internal/storage"
+	"github.com/nikolaykonkin/go-practice/tasks-api-crud/internal/models"
+	"github.com/nikolaykonkin/go-practice/tasks-api-crud/internal/storage"
 )
 
 // Handler содержит зависимости HTTP-обработчиков

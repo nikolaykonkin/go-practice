@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"tasks-api/internal/handlers"
-	"tasks-api/internal/middleware"
-	"tasks-api/internal/storage"
+	"github.com/nikolaykonkin/go-practice/tasks-api-crud/internal/handlers"
+	"github.com/nikolaykonkin/go-practice/tasks-api-crud/internal/middleware"
+	"github.com/nikolaykonkin/go-practice/tasks-api-crud/internal/storage"
 )
 
 func main() {

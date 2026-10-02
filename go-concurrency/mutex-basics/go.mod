@@ -1,3 +1,3 @@
 module github.com/nikolaykonkin/go-practice/mutex-basics
 
-go 1.25
+go 1.26
